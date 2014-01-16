@@ -1,0 +1,24 @@
+body{
+padding:0px;
+margin:0px;
+background:#000000;
+}
+
+
+table {border-collapse:collapse; border:0px;}
+
+
+table, td {
+		width:100%;
+		height:100%;
+		border:0px;
+	}
+
+td { vertical-align:top; padding:0px;}
+	
+.bg-left { background:url(images/splash-flip.jpg) top right no-repeat}
+.bg-right { background:url(images/splash-flip.jpg) top left no-repeat}
+.bg-c { background:url(images/splash.jpg) top left no-repeat}
+.bg { background:url(images/bg-bot-flip.jpg) center top}
+.bg-lb { background:url(images/bg-bot.jpg) top right repeat-y}
+.bg-rb { background:url(images/bg-bot.jpg) top left repeat-y}
